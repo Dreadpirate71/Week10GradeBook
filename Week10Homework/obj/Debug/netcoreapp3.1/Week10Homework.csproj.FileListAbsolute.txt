@@ -1,0 +1,14 @@
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week 10\GradeBook\Week10Homework\bin\Debug\netcoreapp3.1\Week10Homework.exe
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week 10\GradeBook\Week10Homework\bin\Debug\netcoreapp3.1\Week10Homework.deps.json
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week 10\GradeBook\Week10Homework\bin\Debug\netcoreapp3.1\Week10Homework.runtimeconfig.json
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week 10\GradeBook\Week10Homework\bin\Debug\netcoreapp3.1\Week10Homework.runtimeconfig.dev.json
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week 10\GradeBook\Week10Homework\bin\Debug\netcoreapp3.1\Week10Homework.dll
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week 10\GradeBook\Week10Homework\bin\Debug\netcoreapp3.1\Week10Homework.pdb
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week 10\GradeBook\Week10Homework\obj\Debug\netcoreapp3.1\Week10Homework.csproj.AssemblyReference.cache
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week 10\GradeBook\Week10Homework\obj\Debug\netcoreapp3.1\Week10Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week 10\GradeBook\Week10Homework\obj\Debug\netcoreapp3.1\Week10Homework.AssemblyInfoInputs.cache
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week 10\GradeBook\Week10Homework\obj\Debug\netcoreapp3.1\Week10Homework.AssemblyInfo.cs
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week 10\GradeBook\Week10Homework\obj\Debug\netcoreapp3.1\Week10Homework.csproj.CoreCompileInputs.cache
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week 10\GradeBook\Week10Homework\obj\Debug\netcoreapp3.1\Week10Homework.dll
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week 10\GradeBook\Week10Homework\obj\Debug\netcoreapp3.1\Week10Homework.pdb
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week 10\GradeBook\Week10Homework\obj\Debug\netcoreapp3.1\Week10Homework.genruntimeconfig.cache

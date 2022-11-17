@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Week10Homework
 {
@@ -40,6 +41,15 @@ namespace Week10Homework
                 continue;
             } while (userInput != null);
             
+            int[] integerArray = {2,2,3,3,2,3,4,3,3};
+            int[] uniqueIntegers = integerArray.Distinct().ToArray();
+            foreach (int integer in uniqueIntegers)
+            {
+                Console.WriteLine(integer);
+            }
+           
+            
+
         }
     }
 }

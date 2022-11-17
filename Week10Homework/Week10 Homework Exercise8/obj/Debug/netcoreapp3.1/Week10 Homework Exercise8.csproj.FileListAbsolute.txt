@@ -1,0 +1,14 @@
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week 10\GradeBook\Week10Homework\Week10 Homework Exercise8\obj\Debug\netcoreapp3.1\Week10 Homework Exercise8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week 10\GradeBook\Week10Homework\Week10 Homework Exercise8\obj\Debug\netcoreapp3.1\Week10 Homework Exercise8.AssemblyInfoInputs.cache
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week 10\GradeBook\Week10Homework\Week10 Homework Exercise8\obj\Debug\netcoreapp3.1\Week10 Homework Exercise8.AssemblyInfo.cs
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week 10\GradeBook\Week10Homework\Week10 Homework Exercise8\obj\Debug\netcoreapp3.1\Week10 Homework Exercise8.csproj.CoreCompileInputs.cache
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week 10\GradeBook\Week10Homework\Week10 Homework Exercise8\bin\Debug\netcoreapp3.1\Week10 Homework Exercise8.exe
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week 10\GradeBook\Week10Homework\Week10 Homework Exercise8\bin\Debug\netcoreapp3.1\Week10 Homework Exercise8.deps.json
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week 10\GradeBook\Week10Homework\Week10 Homework Exercise8\bin\Debug\netcoreapp3.1\Week10 Homework Exercise8.runtimeconfig.json
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week 10\GradeBook\Week10Homework\Week10 Homework Exercise8\bin\Debug\netcoreapp3.1\Week10 Homework Exercise8.runtimeconfig.dev.json
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week 10\GradeBook\Week10Homework\Week10 Homework Exercise8\bin\Debug\netcoreapp3.1\Week10 Homework Exercise8.dll
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week 10\GradeBook\Week10Homework\Week10 Homework Exercise8\bin\Debug\netcoreapp3.1\Week10 Homework Exercise8.pdb
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week 10\GradeBook\Week10Homework\Week10 Homework Exercise8\obj\Debug\netcoreapp3.1\Week10 Homework Exercise8.dll
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week 10\GradeBook\Week10Homework\Week10 Homework Exercise8\obj\Debug\netcoreapp3.1\Week10 Homework Exercise8.pdb
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week 10\GradeBook\Week10Homework\Week10 Homework Exercise8\obj\Debug\netcoreapp3.1\Week10 Homework Exercise8.genruntimeconfig.cache
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week 10\GradeBook\Week10Homework\Week10 Homework Exercise8\obj\Debug\netcoreapp3.1\Week10 Homework Exercise8.csproj.AssemblyReference.cache

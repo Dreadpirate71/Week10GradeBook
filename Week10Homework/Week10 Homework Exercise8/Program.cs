@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq;
+using System.Collections;
 using System.Collections.Generic;
 
 namespace Week10_Homework_Exercise8
@@ -31,7 +32,7 @@ namespace Week10_Homework_Exercise8
             }
             foreach (var kvp in uniqueDict)
             {
-                if (kvp.Value == integerArray.Length/2 + 1)
+                if (kvp.Value == integerArray.Length / 2 + 1)
                 {
                     majorant = kvp.Key;
                 }
@@ -44,6 +45,26 @@ namespace Week10_Homework_Exercise8
             else
             {
                 Console.WriteLine("The majorant is {0}", majorant);
+            }
+            //exercise 2 removing integers that appear odd number of times
+            List<int> integerList = new List<int>{ 4, 2, 2, 5, 2, 3, 2, 3, 1, 5, 2, 6, 6, 6 };
+            var occurences = integerList.GroupBy(x => x).ToDictionary(y => y.Key, z => z.Count());
+
+            foreach (var item in occurences.ToArray())
+            {
+                if (item.Value%2 != 0)
+                {
+                    integerList.ToArray();
+                    for (int i = 0; i < integerList.Count + 1; i++)
+                    {
+                        integerList.Remove(item.Key);
+                    }
+                }
+                Console.WriteLine(item);
+            }
+            foreach (var item in integerList)
+            {
+                Console.WriteLine(item);
             }
         }
     }
